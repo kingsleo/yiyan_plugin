@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/yiyan_plugin_demo.iml" filepath="$PROJECT_DIR$/.idea/yiyan_plugin_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yiyan_plugin.iml" filepath="$PROJECT_DIR$/.idea/yiyan_plugin.iml" />
     </modules>
   </component>
 </project>
